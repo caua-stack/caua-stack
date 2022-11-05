@@ -1,6 +1,4 @@
-### Olá! Eu sou o Cauã Santos🖐️
-
-[![linkedIn](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/teams/cauasantosfaguette/overview?_ga=2.79786455.1511317562.1667649121-1314851194.1667649121/)
+## Olá! Eu sou o Cauã Santos🖐️
 
 ![Cauã GitHub stats](https://github-readme-stats.vercel.app/api?username=caua-stack&show_icons=true&theme=synthwave)
 
