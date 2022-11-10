@@ -13,3 +13,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caua-stack&layout=demo)](https://github.com/caua-stack/github-readme-stats)
 
 ![snake gif](https://github.com/caua-stack/caua-stack/blob/output/github-contribution-grid-snake.svg)
+
