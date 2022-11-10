@@ -1,16 +1,13 @@
-## Olá! Eu sou o Cauã Santos🖐️
+# :octocat: Cauã Santos
 
 ![Cauã GitHub stats](https://github-readme-stats.vercel.app/api?username=caua-stack&show_icons=true&theme=synthwave)
 
 ## Tecnologias 
+![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-HTML-CC342D?logo=html5&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> 
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-</div><br/><br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caua-stack&layout=demo)](https://github.com/caua-stack/github-readme-stats)
-
-![snake gif](https://github.com/caua-stack/caua-stack/blob/output/github-contribution-grid-snake.svg)
-
+## GITHUB
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=caua-stack&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caua-stack&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
