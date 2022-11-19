@@ -1,6 +1,6 @@
 # :octocat: Cauã Santos
 
-Professor da área de tecnologia da informação, atuando em duas área, redes de computador e desenvolvimento.
+Aluno da área de programação front end, cursando 1°ano do ensino médio.
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cauafaguete_/)
 
