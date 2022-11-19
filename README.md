@@ -13,7 +13,7 @@ Aluno da área de programação front end, cursando 1°ano do ensino médio.
 ![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
 
 ## GITHUB
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fernandoleonid&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=caua-stack&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoleonid&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 
 ![snake gif](https://github.com/Vitor-ext/Vitor-ext/blob/output/github-contribution-grid-snake.svg)
