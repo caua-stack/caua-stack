@@ -16,4 +16,4 @@ Aluno da área de programação front end, cursando 1°ano do ensino médio.
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=caua-stack&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caua-stack&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake gif](https://github.com/caua-stack/caua-stack/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/caua-stack/caua-stack/blob/output/github-contribution-grid-snake.svg) -->
