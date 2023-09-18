@@ -9,14 +9,6 @@
   </h1>
 </div>
 
-
-
-
-
-<p align="center">
-   👨🏽‍💻Cauã Santos👨🏽‍💻   
-</p>
- 
 <div align="center">
   <a href="https://github.com/caua-stack">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caua-stack&theme=slateorange" />
