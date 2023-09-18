@@ -39,15 +39,15 @@
 </div>
 <div align="center">
   <p align="center">
-  <a href="https://github.com/dawidolko">
+  <a href="https://github.com/caua-stack">
     <img src="https://img.shields.io/badge/Languages:-orange" />
   </a>
 </p>
 </div>
 <div align="center">
   <p align="center">
-  <a href="https://github.com/dawidolko?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,css,html,js,php" />
+  <a href="https://github.com/caua-stack?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=css,html,js" />
   </a>
 </p>
 </div>
