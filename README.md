@@ -61,7 +61,7 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/caua-stack?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode" /> 
+    <img src="https://skillicons.dev/icons?i=vscode" /> 
   </a>
 </p>
 </div>
