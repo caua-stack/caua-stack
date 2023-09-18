@@ -1,16 +1,5 @@
 # :octocat: Cauã Santos
 
-Aluno da área de programação front end, cursando 1°ano do ensino médio.
-
-##
-![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-HTML-CC342D?logo=html5&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-GitHub-181717?logo=github&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
-##
-
-
 <p align="center">
    ❣🚀❣  Vitor de Jesus ❣🚀❣
 </p>
