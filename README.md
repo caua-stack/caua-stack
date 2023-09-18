@@ -1,7 +1,3 @@
-<p align="center"> 
-<p align="center">
-  <img src="assets/Bottom_up.svg">
-</p>
 <div align="center">
   <h1>
     <a href="https://github.com/dawidolko/dawidolko">
