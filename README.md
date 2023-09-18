@@ -1,5 +1,5 @@
 <p align="center">
-   # :octocat: Cauã Santos
+   Cauã Santos
 </p>
  
 <div align="center">
