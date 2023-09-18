@@ -1,7 +1,5 @@
-# :octocat: Cauã Santos
-
 <p align="center">
-   ❣🚀❣  Vitor de Jesus ❣🚀❣
+   # :octocat: Cauã Santos
 </p>
  
 <div align="center">
