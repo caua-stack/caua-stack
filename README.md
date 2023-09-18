@@ -53,15 +53,15 @@
 </div>
 <div align="center">
   <p align="center">
-  <a href="https://github.com/dawidolko">
+  <a href="https://github.com/caua-stack">
     <img src="https://img.shields.io/badge/Development:-orange" />
   </a>
 </p>
 </div>
 <div align="center">
   <p align="center">
-  <a href="https://github.com/dawidolko?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,idea" /> 
+  <a href="https://github.com/caua-stack?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode" /> 
   </a>
 </p>
 </div>
