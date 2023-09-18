@@ -1,4 +1,5 @@
 <div align="center">
+<div align="center">
   <h1>
     <a href="https://github.com/dawidolko/dawidolko">
       <img src="https://readme-typing-svg.herokuapp.com? 
