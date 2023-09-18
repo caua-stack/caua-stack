@@ -29,3 +29,43 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caua-stack&theme=slateorange" />
   </a>
 </div>
+
+## **Skills & Technologies:**
+<div align="center">
+  <p align="center">
+    <img src="https://count.getloli.com/get/@dawidolko.github.readme" width="200"/>
+  </p>
+</div>
+<div align="center">
+  <p align="center">
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
+  </p>
+</div>
+<div align="center">
+  <p align="center">
+  <a href="https://github.com/dawidolko">
+    <img src="https://img.shields.io/badge/Languages:-orange" />
+  </a>
+</p>
+</div>
+<div align="center">
+  <p align="center">
+  <a href="https://github.com/dawidolko?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,css,html,js,php" />
+  </a>
+</p>
+</div>
+<div align="center">
+  <p align="center">
+  <a href="https://github.com/dawidolko">
+    <img src="https://img.shields.io/badge/Development:-orange" />
+  </a>
+</p>
+</div>
+<div align="center">
+  <p align="center">
+  <a href="https://github.com/dawidolko?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,idea" /> 
+  </a>
+</p>
+</div>
